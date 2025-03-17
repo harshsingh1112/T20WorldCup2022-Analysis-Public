@@ -1,59 +1,14 @@
-# T20 World Cup 2022 Analysis
+# T20WorldCup2022Analysis
 
-## Project Overview
-This project focuses on analyzing cricket statistics from the T20 World Cup 2022 using Python for data collection and preprocessing, and Power BI for data modeling and visualization.
+Web Scraping project for T20 World Cup 
 
-## Tech Stack & Tools
-- **Python**: BeautifulSoup, Pandas, Web Scraping
-- **Data Visualization**: Power BI
-- **Data Storage**: CSV Files
-
-## Features
-- Web scraping of cricket player records
-- Data extraction, cleaning, and transformation
-- Player-wise and match-wise statistics
-- Comprehensive Power BI dashboard for insights
-
-## File Structure
-```
-📂 T20 WorldCup2022_Analysis
-├── match_results.py            # Python script for match results processing
-├── bowler_record_links.py      # Web scraping script for bowler records
-├── batsmen_record.py           # Web scraping script for batsmen records
-├── fact_bowling_summary.csv    # Bowling statistics dataset
-├── fact_bating_summary.csv     # Batting statistics dataset
-├── dim_players_no_images.csv   # Player details dataset
-├── dim_match_summary.csv       # Match summary dataset
-├── Cricket Best 11.pbix        # Power BI dashboard file
-├── Quick Video Demonstration.mkv  # Quick overview video
-├── Screenshots/                # Dashboard visualization screenshots
-│   ├── ss (1).png
-│   ├── ss (2).png
-│   ├── ss (3).png
-│   ├── ss (4).png
-│   ├── ss (5).png
-│   ├── ss (6).png
-│   ├── ss (7).png
-│   ├── ss (8).png
-│   ├── ss (9).png
-└── README.md                   # Documentation file
-```
-
-## Data Sources
-- Scraped from cricket statistics websites
-- Transformed and stored in CSV format for analysis
-
-## Visuals
-Power BI dashboards include:
-- **Match Insights**: Performance breakdown by teams and players
-- **Bowler & Batsmen Analysis**: Strike rates, economy, runs scored, wickets taken
-- **Overall Tournament Summary**: Winning trends, team performances, and player rankings
-
-## How to Run the Project
-1. Install dependencies using `pip install pandas beautifulsoup4`
-2. Run the Python scripts to scrape and process the data
-3. Load the datasets into Power BI
-4. Explore interactive dashboards
-
-## Contributor
-@harshsingh1112
+Screenshots:
+![ss (9)](https://github.com/user-attachments/assets/49915204-8d8a-4a5d-a81b-247897c32d90)
+![ss (8)](https://github.com/user-attachments/assets/f0b47693-56d6-434f-9780-1a9ee030a3e1)
+![ss (7)](https://github.com/user-attachments/assets/42faa9f5-539a-41a3-8da2-23b86bb3afdd)
+![ss (6)](https://github.com/user-attachments/assets/8074aaef-80bd-416d-970e-ff03b388564c)
+![ss (5)](https://github.com/user-attachments/assets/d5f98843-115d-4cd4-b558-69b7dc83ae0e)
+![ss (4)](https://github.com/user-attachments/assets/c22db6de-c9ff-4b4c-a4f1-2e472e881687)
+![ss (3)](https://github.com/user-attachments/assets/4c129239-6c3b-455f-8c16-207aeeb5d51f)
+![ss (2)](https://github.com/user-attachments/assets/a6817318-7c1d-43b7-bc82-1ea37ad0d3cd)
+![ss (1)](https://github.com/user-attachments/assets/f0ac74a2-e4db-4836-9a1d-461ccbb132ca)
