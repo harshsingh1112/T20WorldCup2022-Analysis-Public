@@ -49,9 +49,6 @@ Power BI dashboards include:
 - **Bowler & Batsmen Analysis**: Strike rates, economy, runs scored, wickets taken
 - **Overall Tournament Summary**: Winning trends, team performances, and player rankings
 
-## Quick Demo
-![Dashboard Preview](Screenshots/ss%20(1).png)
-
 ## How to Run the Project
 1. Install dependencies using `pip install pandas beautifulsoup4`
 2. Run the Python scripts to scrape and process the data
